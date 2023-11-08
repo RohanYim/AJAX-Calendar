@@ -1,12 +1,4 @@
 # CSE330
-- Name: Fiona Xu
-- Student id: 510576
-- Github username: Fionawin
-
-- Name: Rohan Song
-- Student id: 505908
-- Github username: RohanYim
-
 
 # Link
 ### RohanSong
